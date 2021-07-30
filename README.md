@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nageshwar Pandey
 - 👀 I’m currently doing B.Tech CSE
-- 🌱  I’m interested in Web Development and AWS (cloud computing)
+- 🌱  I’m interested in Web Development and cloud computing (AWS )
 - 💞️ I’m looking for a internship
 
 
